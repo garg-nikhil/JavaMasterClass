@@ -3,7 +3,7 @@ package regularExpression;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegularExpression {
+public class RegularExpressionBasic {
 
 	public static void main(String[] args) {
 		int count = 0;
