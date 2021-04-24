@@ -11,7 +11,7 @@ public class CountIntegersInString {
 		
 
 		CountIntegersInString abc = new CountIntegersInString();
-		//abc.Count();
+		abc.Count();
 		abc.count1();
 		
 	}
