@@ -1,10 +1,10 @@
-package practicejava;
+package regularExpression;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 //This program is a demo for character classes in java
-public class RegularExpressionAll {
+public class RECharacterClasses {
 	
 public void CharacterClasses1(){
 		
@@ -182,7 +182,7 @@ public void CharacterClasses9(){
 
 public static void main(String[] args) {
 		
-		RegularExpressionAll a = new RegularExpressionAll();
+	RECharacterClasses a = new RECharacterClasses();
 	//	a.CharacterClasses1();
 	//	a.CharacterClasses2();
     //	a.CharacterClasses3();
